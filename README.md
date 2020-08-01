@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm uhhyunjoo! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falro923%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-<!--
-**alro923/alro923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning
+- Android
+- Algorithm
+- Machine Learning
+- Flutter 🐣
 
-Here are some ideas to get you started:
+🔭 I’m currently working on 
+- Tensorflow Study | [Tensor ≈ Study Group](https://www.facebook.com/groups/tensorflowstudy)
+- Algorithm Study | [RGRG]()
+- Flutter Education | [Sullivan Project](https://www.facebook.com/sullivanproject.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+
+<div align=center>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alro92333@gmail.com)](mailto:alro92333@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://uhhyunjoo.tistory.com/)](http://uhhyunjoo.tistory.com/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/uhhyunjoo)](https://www.facebook.com/uhhyunjoo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunjoo-lee-410677191/)](https://www.linkedin.com/in/hyunjoo-lee-410677191/) 
+
+</div>
+
