@@ -2,7 +2,6 @@
 
 🌱 I’m currently learning
 - Android
-- Algorithm
 - Machine Learning
 - Flutter 🐣
 
