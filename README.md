@@ -8,7 +8,6 @@
 🔭 I’m currently working on 
 - Algorithm Study | [RGRG](https://www.notion.so/rgrg)
 - Tensorflow Study | [Tensor ≈ Study Group](https://www.facebook.com/groups/tensorflowstudy)
-- Flutter Education | [Sullivan Project](https://www.facebook.com/sullivanproject.in)
 
 📫 How to reach me:
 
