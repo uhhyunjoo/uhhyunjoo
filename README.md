@@ -3,10 +3,9 @@
 🌱 I’m currently learning
 - Android
 - Machine Learning
-- Flutter 🐣
 
 🔭 I’m currently working on 
-- Algorithm Study | [RGRG](https://www.notion.so/rgrg)
+- Algorithm Study | [RGRG](https://github.com/sejonginterface/AlgorithmClub_RGRG)
 - Tensorflow Study | [Tensor ≈ Study Group](https://www.facebook.com/groups/tensorflowstudy)
 
 📫 How to reach me:
