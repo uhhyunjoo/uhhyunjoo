@@ -1,12 +1,12 @@
 # Hello, I'm uhhyunjoo! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falro923%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 🌱 I’m currently learning
-- Android
 - Machine Learning
 
 🔭 I’m currently working on 
 - Algorithm Study | [RGRG](https://github.com/sejonginterface/AlgorithmClub_RGRG)
-- Tensorflow Study | [Tensor ≈ Study Group](https://www.facebook.com/groups/tensorflowstudy)
+- Backend Study | [BackendStudy Team](https://github.com/interface-2021/BackEnd_Study_Team)
+- Kaggle Study | [Sejong-Kaggle-Study](https://github.com/Sejong-Kaggle-Study-3rd)
 
 📫 How to reach me:
 
@@ -18,4 +18,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunjoo-lee-410677191/)](https://www.linkedin.com/in/hyunjoo-lee-410677191/) 
 
 </div>
-
