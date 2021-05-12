@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Hyunjoo Lee (a.k.a uhhyunjoo)**, interested in `Machine Learning / Deep Learning`, `Computer Vision`, `Problem Solving`.
+I'm **Hyunjoo Lee (a.k.a uhhyunjoo)**, interested in `Machine Learning / Deep Learning`, `Problem Solving`, `Back-End Development`.
 
 **Education** 🏫 
 - **Sejong University**, Computer Engineering (2018 - )
