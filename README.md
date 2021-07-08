@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm **Hyunjoo Lee (a.k.a uhhyunjoo)**, interested in `Machine Learning / Deep Learning`, `Problem Solving`, `Back-End Development`.
+I'm **Hyunjoo Lee (a.k.a uhhyunjoo)**, interested in `Machine Learning / Deep Learning`, `Problem Solving`.
 
 **Education** 🏫 
-- **Sejong University**, Computer Engineering (2018 - )
+- **Sejong University**, Computer Engineering (2018~)
 
 **Product** 🌟
 - **[더치](https://play.google.com/store/apps/details?id=com.dutch2019&hl=ko&gl=US)** - Front-End Development
