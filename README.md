@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm **Hyunjoo Lee (a.k.a uhhyunjoo)**, interested in `Machine Learning / Deep Learning`, `Problem Solving`.
+I'm **Hyunjoo Lee**, interested in `Computer vision`, `Problem Solving`.
 
 **Education** 🏫 
 - **Sejong University**, Computer Engineering (2018~)
 
 **Product** 🌟
-- **[더치](https://play.google.com/store/apps/details?id=com.dutch2019&hl=ko&gl=US)** - Front-End Development
+- **[더치](https://github.com/2019androidtp/Dutch)** - Front-End Development
 
 📫 How to reach me:
 
