@@ -9,13 +9,13 @@
 Hyunjoo Lee
 --------------------------------------------
 OS: Ubuntu LTS x86_64
-Shell: bash 4.4
+Shell: zsh 5.8
 Uptime: 23 years
 Location: Seoul, Korea
 Pronouns: She/Her
 Language: Python
 Framework: Pytorch
-Learning: Pytorch-Lightning, Hydra, Wandb
+Learning: Pytorch-Lightning, Hydra, Wandb, Django
 Interests : Multimodal-Understanding
 ```
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjlee@rcv.sejong.ac.kr)](mailto:hjlee@rcv.sejong.ac.kr)
