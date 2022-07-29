@@ -8,15 +8,15 @@
 ```csharp
 Hyunjoo Lee
 -----------------------------------------
-OS: Ubuntu 22.04 LTS x86_64
+OS: Ubuntu 20.04 LTS x86_64
 Shell: zsh 5.8
 Uptime: 23 years
 Location: Seoul, Korea
 Pronouns: She/Her
 Language: Python
 Framework: Pytorch
-Learning: Pytorch-Lightning, Wandb, React
-Interests: Multimodal-Understanding
+Learning: React, Flutter
+Interests: Multimodal-Understanding, Lightning-AI
 ```
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjlee@rcv.sejong.ac.kr)](mailto:hjlee@rcv.sejong.ac.kr)
