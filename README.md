@@ -8,8 +8,8 @@
 ```csharp
 Hyunjoo Lee
 -----------------------------------------
-OS: Ubuntu 20.04 LTS x86_64
-Shell: zsh 5.8
+OS: CentOS Linux release 7 (Core) x86_64 
+Shell: zsh
 Uptime: 23 years
 Location: Seoul, Korea
 Pronouns: She/Her
@@ -19,6 +19,6 @@ Learning: React, Flutter
 Interests: Multimodal-Understanding, Lightning-AI
 ```
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjlee@rcv.sejong.ac.kr)](mailto:hjlee@rcv.sejong.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alro92333@gmail.com)](mailto:alro92333@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=http://uhhyunjoo.dev/)](http://uhhyunjoo.dev/)
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://uhhyunjoo.tistory.com/)](https://uhhyunjoo.tistory.com/)
