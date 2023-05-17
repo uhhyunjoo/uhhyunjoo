@@ -1,10 +1,6 @@
 ```zsh
 > neofetch
 ```
-
-
-<img align="left" src="https://user-images.githubusercontent.com/41139770/168698261-a35351ef-c208-4c22-a2ed-addec64f889d.png" alt="익명이 (https://www.instagram.com/p/CYJygWKPwKB/)" width="280" /> 
-
 ```csharp
 Hyunjoo Lee
 -----------------------------------------
