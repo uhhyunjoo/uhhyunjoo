@@ -6,12 +6,12 @@ Hyunjoo Lee
 -----------------------------------------
 OS: CentOS Linux release 7 (Core) x86_64 
 Shell: zsh
-Uptime: 24 years
+Uptime: 25 years
 Location: Seoul, Korea
 Pronouns: She/Her
 Language: Python
 Framework: Pytorch
-Learning: React, Flutter
+Learning: Recommender System
 Interests: Data-Visualization, Multimodal-Understanding, Eye-tracking
 ```
 
