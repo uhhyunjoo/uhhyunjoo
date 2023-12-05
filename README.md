@@ -4,7 +4,7 @@
 ```csharp
 Hyunjoo Lee
 -----------------------------------------
-OS: CentOS Linux release 7 (Core) x86_64 
+OS: Ubuntu 22.04.3 LTS on Windows 10 x86_64
 Shell: zsh
 Uptime: 25 years
 Location: Seoul, Korea
